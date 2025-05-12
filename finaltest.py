@@ -298,7 +298,7 @@ if section == "Prediction":
             y_pred_pollutant = model.predict(X_test_pollutant)
 
             mae = mean_absolute_error(y_test_pollutant, y_pred_pollutant)
-            rmse = mean_squared_error(y_test_pollutant, y_pred_pollutant, squared=False)
+            rmse = mean_squared_error(y_test_pollutant, y_pred_pollutant)
             #r2 = r2_score(y_test_pollutant, y_pred_pollutant)
 
             st.write(f"### Evaluation for {pollutant}")
