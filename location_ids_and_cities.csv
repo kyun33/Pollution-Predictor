@@ -1,0 +1,1001 @@
+Location ID,City Name
+3,NMA - Nima
+4,NMT - Nima
+5,JTA - Jamestown
+6,ADT - Asylum Down
+7,ADEPA - Asylum Down
+8,ADA - Asylum Down
+9,ELC - East Legon
+10,ELT - East Legon
+11,ELA - East Legon
+12,SPARTAN - IIT Kanpur
+13,"Delhi Technological University, Delhi - CPCB"
+14,SPARTAN - CITEDEF
+15,IGI Airport
+16,Civil Lines
+17,"R K Puram, Delhi - DPCC"
+18,SPARTAN - Vietnam Acad. Sci.
+19,MNB
+21,Beijing US Embassy
+22,SPARTAN - Dhaka University
+23,Amgalan
+24,SPARTAN - NUS
+25,Parque O'Higgins
+26,Inpesca
+27,Concón
+28,Ursynów
+30,100 ail
+31,Wekerom-Riemterdijk
+32,SPARTAN - Tsinghua University
+33,Zaanstad-Hemkade
+34,SPARTAN - Weizmann Institute
+38,Cauquenes
+39,Gobernación
+41,Groningen-Europaweg
+42,SPARTAN - Ilorin University
+43,Konarskiego
+44,Heerlen-Jamboreepad
+45,Puente Alto
+46,Bukhiin urguu
+47,Valparaiso
+48,Baruun 4 zam
+49,"Phahol Yothin Rd., Khet Chatuchak"
+50,"Punjabi Bagh, Delhi - DPCC"
+51,Wieringerwerf-Medemblikkerweg
+52,Rotterdam-Oost Sidelinge A13
+53,Shenyang
+54,Talagante
+55,Utrecht-Kardinaal de Jongweg
+57,"Khlong Nueng, Khlong Luang"
+58,Zegveld-Oude Meije
+59,Nisekh
+60,Haringey Roadside
+61,Coya Población
+63,Philippine-Stelleweg
+64,Mustang Bayou C619
+65,Punteras
+66,"Bang Khun Thian, Chom Thong"
+67,Ventanas
+68,Cerro Merquín
+69,Kingston College
+71,Biest Houtakker-Biestsestraat
+72,Curicó
+73,Coyhaique II
+74,Leiden-Willem de Zwijgerlaan
+76,De Zilk-Vogelaarsdreef
+77,Hoek v. Holland-Berghaven
+79,Hilversum-J. Gerardtsweg
+80,Amsterdam-Van Diemenstraat
+81,Coronel Norte
+82,Haarlem-Schipholweg
+85,Hellendoorn-Luttenbergerweg
+86,De Rips-Blaarpeelweg
+87,De Rips-Klotterpeellaan
+90,Misheel expo
+93,Nijmegen-Graafseweg
+94,"Din Daeng, Din Daeng"
+95,Amsterdam-Vondelpark
+96,Wijk aan Zee-Burgemeester Rothestraat
+97,IJmuiden-Kanaaldijk
+98,Amsterdam-Westerpark
+99,Maastricht-A2 Kasteel Hillenraadweg
+100,Badhoevedorp-Sloterweg
+101,Amsterdam-Hoogtij
+102,Amsterdam-Einsteinweg
+103,"Income Tax Office, Delhi - CPCB"
+135,Prabadang Rehabiltation Center
+136,Los Vientos
+137,Harrow - Stanmore
+138,"Lat Phrao Rd., Wang Thonglang"
+139,Alto Hospicio
+140,Alto Hospicio
+141,London Harlington
+142,Chengdu
+143,Shanghai
+144,Guangzhou
+145,Escuela E-10
+146,Southwark A2 Old Kent Road
+147,Greenwich - Eltham
+148,London Bloomsbury
+149,Ealing - Horn Lane
+150,London Haringey Priory Park South
+151,Tower Hamlets - Mile End Road
+152,Camden Kerbside
+153,London Hillingdon
+154,Westminster - Marylebone Road
+155,London N. Kensington
+156,London Teddington
+157,Bexley - Slade Green
+158,London Teddington Bushy Park
+159,London Westminster
+160,Derry
+161,Clinton C403/C304/AH113
+162,Houston Deer Park C3
+163,Danciger C618
+164,Houston North Loop C
+165,UH WG Jones Forest C698
+166,UH Moody Tower C695
+167,UH Coastal Center C697
+168,Houston East C1/G316
+169,Houston Texas Avenue C411
+170,Lake Jackson C1016
+171,U of H
+172,HRM
+173,Houston Westhollow C
+174,Wallisville Road C617
+175,Texas City Ball Park A147/C1022
+176,Freeport South Avenue I C1012
+177,Sheldon C551
+178,Conroe Relocated C78/A321
+179,Texas City 34th St. C620
+180,Channelview C15/AH115
+181,Houston Southwest Freeway C1066
+183,Lynchburg Ferry C1015/A165
+184,Crosby Library C553
+186,Houston Aldine C8
+187,Houston Bayland Park
+188,Houston Croquet C409
+189,Atascocita C560
+190,Huffman Wolf Road C563
+191,Seabrook Friendship
+192,Lang C408
+193,Houston Monroe C406
+194,Houston North Wayside C405
+195,Houston Park Place C
+196,West Houston C554
+197,Baytown Wetlands Center C552
+198,Bunker Hill Village C562
+199,Baytown Garth C1017
+200,Meyer Park C561
+202,Galveston 99th St. C1034/A320/X183
+203,Katy Park C559
+204,Manvel Croix Park C84
+205,Northwest Harris Co. C26/A110/X154
+206,Tom Bass C558
+207,MMFRA1001
+209,Tooele
+210,Liceo Polivalente
+211,Felton Cal-Fire
+212,ROLAND
+213,Twin Falls PM25
+214,MMFRA1001
+215,Unionville
+216,South Bend-Shields D
+217,Lafayette-Greenbush
+218,Ogden Dunes
+219,Columbus - Rocky For
+220,Larwill
+221,Indpls-Washington Pa
+222,Terre Haute-Lafayett
+223,Gary-IITRI
+224,Fort Wayne-Beacon St
+225,New Albany
+226,Elkhart-Prairie St.
+227,Kokomo - E. Vaile Av
+228,Fishers
+229,Caddo Valley
+230,Barstow
+231,Lucerne Valley
+232,Trona - Athol and Te
+233,Spokane Valley-E Bro
+234,Enterprise - US Fore
+235,"Anand Vihar, New Delhi - DPCC"
+236,"Mandir Marg, Delhi - DPCC"
+237,San Ysidro
+238,Maryland Heights
+239,Alamo Lake
+240,Waterbury
+241,Pernis-Soetemanweg
+242,POTAWATOMI
+243,ELDOSPGS
+244,Liberty
+245,Pacific
+246,Hillcrest HS
+247,CARTHAGE
+248,MRGRETTA
+249,Farrar
+250,ARNOLD
+251,Fellows Lake
+252,Buick NE
+253,BONTERRE
+254,WEST ALTON
+255,Mark Twain SP
+256,CHARLSTN
+257,Savannah
+258,Trimble
+259,Troost
+260,St. Joseph
+261,Rocky Creek
+262,NWBLMFLD
+263,Watkins Mill State P
+264,Orchard Farm
+265,Botlek-Spoortunnel
+266,Davidsonville
+267,Arendtsville
+268,Oxford
+269,Northampton Kingsthorpe
+270,Los Ángeles Oriente
+271,Campiche
+272,Bondville
+273,Vincennes
+274,Reading Airport
+275,Valley Central
+276,Morro Bay
+277,Stockton
+278,Speedwell
+279,Sumatra
+280,Thirty Third
+281,"Eliot, Sawgrass Lane"
+282,Pinedale Gaseous
+283,Penn State
+284,Hoxeyville
+285,Wagner2
+286,Collectorate - Gaya - BSPCB
+287,St. Lina
+288,Hawthorne
+289,LOCKELAND
+292,Colmo
+293,Garden
+294,Mirasol
+295,Gendarmería
+296,Bomberos
+297,Steeper
+298,Bruderheim
+299,Quilicura
+300,Glen Burnie
+301,"Vikas Sadan, Gurugram - HSPCB"
+304,Campbelltown West
+305,Smithfield
+306,Skiatook
+307,Squamish
+308,Baytown Eastpoint C1
+309,Obispado
+310,"Hiran Ruchi, Thon Buri"
+311,Indpls- Illinois St
+312,East Chicago Post Of
+313,RT
+314,Indpls - I-70 E
+315,Hope
+316,YPT Campbell Ranch
+317,Las Vegas Paiute
+318,Texarkana New Boston
+319,Harlingen Teege C102
+320,Cortina Rancheria
+321,Temple Georgia C1045
+322,Helmsburg
+323,Loncura
+326,Jackson NCORE
+327,CasaBlanca
+328,Linville Falls
+329,Mt Mitchell
+330,North Provo
+331,Lindon
+332,QUILICURA 
+333,QUILICURA 
+334,Miami Fire Station #
+335,Homestead Fire Stati
+336,Earlwood
+337,Birmingham Tyburn
+338,Estaci�n Hospital Ge
+339,Waco C1037
+341,St. Marks Wildlife R
+342,Lancaster
+343,Athens Supersite
+344,Sunrise Acres
+345,Cata�o 40
+346,"MD University, Rohtak - HSPCB"
+348,Santa Fe
+349,BNTCR
+350,Daniel South
+351,Cipreses
+352,Minneapolis - Pacifi
+353,Minneapolis - Lowry
+354,"Lalbagh, DN Park"
+355,Prospect
+356,Bocatoma
+358,Albemarle HS
+359,Estaci�n Bomberos
+360,Patricia McInnes
+361,Tonawanda II
+362,CHICOPEE
+364,Colegio Pedro Vergara Keller
+365,Hamshire C64
+366,Shuttlesworth
+373,Red Bluff - Walnut o
+374,Porthill
+376,Estaci�n Nativitas
+377,Sur
+378,Alandur Bus Depot
+379,Mt Hall
+381,Rockland Cty
+382,Elk Island
+383,Malta
+384,CCNY
+385,Newburgh
+386,Susan Wagner
+387,Nicks Lake
+388,Lota rural
+389,Sidney Oil Field
+390,RED DEER RIVERSIDE D
+391,Near Road
+392,Babylon
+393,Middleport
+394,Edson
+395,Piseco Lake
+396,Boston - North End
+397,Thompson Falls
+398,Camden
+399,Puren
+400,Kenosha-Water Tower
+403,Museo Ferroviario
+404,Soddy Daisy
+405,Eastside
+406,Oldbury Birmingham Road - UKA00595
+407,"Zoo Park, Hyderabad - TSPCB"
+408,Stukely
+409,Esther
+410,West Phoenix
+412,"Peenya, Bengaluru - KSPCB"
+413,Estaci�n Te�dula
+414,Stockton-on-Tees Eaglescliffe
+415,Rifle Particulate
+416,Corpus Christi - Nat
+417,Rozelle
+418,Department of Disease Control
+420,Vijećnica
+421,Otoka
+422,Tetovo
+423,Ivan Sedlo
+424,CHI_COM
+425,Strathvaich
+426,Burdens Creek
+427,Juárez
+428,Corvallis - Circle B
+429,SOUTHAMPTON
+430,Penobscot Nation
+431,"IHBAS, Delhi - CPCB"
+432,Beresfield
+433,Polson-MT
+434,Edgar Evins
+435,Birney
+436,Parsons
+437,Varennes 1
+438,Blackwater NWR
+439,Saint-Faustin-Lac-Ca
+440,Blue Point Sheriff S
+441,Saint-Jean-Baptiste
+442,North Phoenix
+444,Salamonie Reservoir
+445,Diablo
+447,Saint-Hilaire-de-Dor
+448,Boston - Roxbury
+449,Haverhill
+450,R�s. Faun. Ashuapmus
+452,Boston-Von Hillern
+453,Longueuil
+454,Huntington Wildlife
+455,Bozeman EBAM
+456,Beaverlodge
+457,Crockett
+458,Uxbridge
+459,Helena
+460,Cranberry
+461,Providence
+462,Violet Grove
+463,Rivi�re-des-Prairies
+464,Rio Verde Sheriff Su
+465,Broadus
+466,Brockton
+467,Beaufort
+468,La Patrie - Ditton
+469,Hamilton
+470,Saint-Simon
+471,"Brown University, Ro"
+472,Portsmouth
+474,Connecticut Hill
+475,Buckeye
+476,Rouyn-Noranda - Parc
+477,Qu�bec - �cole Les P
+478,Sherbrooke - Parc Ca
+479,Chelmsford
+480,LYNN
+481,Parc de la Gatineau
+482,Saint-Z�phirin-de-Co
+483,Zuni Hills
+484,Butte
+485,B�cancour
+486,Columbia Falls
+487,Deschambault
+488,Abington
+489,Perkinstown
+490,Athabasca Valley
+491,Qu�bec - Vieux-Limoi
+492,A�roport de Montr�al
+494,Seeley Lake
+495,Edmonton South
+496,Cold Lake South
+497,Howland Ameriflux
+498,Gatineau - Hull
+499,W Greenwich
+500,Frenchtown
+501,Alhambra
+502,François
+503,Fountain Hills
+504,Fort Saskatchewan
+505,Fort McKay
+506,Tingwick
+507,Worcester
+508,Worcester
+509,Fort Chipewyan
+510,Palo Duro
+511,White Fish Dead End
+512,Sleeping Giant
+513,Greenwood
+514,South Phoenix
+515,South Scottsdale
+516,Georgia Station
+517,West Chandler Fire S
+518,West 43rd
+519,Notre-Dame-du-Rosair
+520,Billings St. Luke's
+521,BOSTON-KENMORE
+522,Springfield
+524,Greenfield
+525,PITTSFIELD
+526,Tempe
+527,Chenier
+528,Mont-Saint-Michel
+529,Molson
+530,WARE
+531,Charette
+532,Mackville
+533,E. Milton - Blue Hil
+534,Missoula
+535,Great Falls
+536,Humboldt Mountain -
+537,Lethbridge
+538,TRURO
+539,Pinedale
+540,Wash. Crossing
+541,Mesa - Brooks Reserv
+542,Lewistown
+543,Central Phoenix
+544,Centennial
+545,Cedar Creek
+546,Medicine Hat - Cresc
+547,Cave Creek
+548,Grass Valley
+549,Edmonton East
+550,Glendale Community C
+551,Kalispell Flathead E
+552,Catherine
+553,Lac-Édouard
+554,Carrot Creek
+555,Caroline
+556,Alabama-Coushatta
+557,E Providence
+558,Kane Exp. Forest
+559,Fall River
+560,Libby
+561,Dysart
+562,Edmonton Central
+563,Gothic
+564,Durango Complex
+565,Prince Edward
+566,Wampanoag Laboratory
+567,Pinnacle Peak Club H
+568,Quaker City
+569,Syncrude UE1
+570,Falcon Field Fire St
+571,Calgary Northwest
+572,Duncan
+573,Golden Hospital
+574,Fairhaven2
+576,Pedregal
+577,Corpus Christi Dona
+578,San Bernabé
+579,La Pastora
+580,Garcia
+581,Santa Catarina
+582,San Nicolas
+583,LEGGETT
+584,Harmani
+585,Liberty Lake-E Valey
+586,Moxa Arch
+588,Chiu Chiu
+589,Regina
+590,Hawaii Volcanoes NP
+592,Albion Park Sth
+593,Newcastle
+594,"BTM Layout, Bengaluru - KSPCB"
+595,SETRPC Mauriceville
+596,Utica
+597,Miami Jones Ranch
+598,Youngstown - Laird A
+599,Soda Springs SO2
+601,Mesa Verde NP
+602,Chullora
+603,Yuma Supersite
+604,Hayden
+605,Phoenix JLG Supersit
+606,Miami Town Site
+607,Rillito
+608,Ajo
+609,Douglas Red Cross
+610,Tonto National Monum
+611,Prescott College
+612,840MMAZ10002
+613,Miami Golf Course
+614,Bullhead City
+615,Queen Valley
+616,Nogales Post Office
+617,Paul Spur Chemical L
+618,Miami Ridgeline
+619,"Bang Sao Thong, Bang Sao Thong"
+620,Huasco Sivica
+622,Colfax
+623,Perch River
+624,Rochester
+625,Manhattan/IS143
+626,Bronx - IS52
+627,Woodland
+628,Maspeth
+629,Loudonville
+630,Williamson
+631,Queens
+632,LAWRENCE
+633,Whiteface Mtn
+634,White Plains
+635,Vacaville
+636,Stillwater
+637,ATHENS
+638,Pinehurst
+639,HVILLE
+640,Clarksville
+641,Mt Ninham
+642,PS 19
+643,Chester BAM
+644,Dunkirk
+645,E Syracuse
+646,Pinnacle State Park
+647,Holtsville
+648,Bklyn - PS 314
+649,Amherst
+650,Tahoe City
+652,CEDARS
+653,Truckee BAM
+654,Albany
+655,Auburn
+656,Buffalo
+657,Fulton
+658,Quincy BAM
+659,Portola
+660,Lincoln
+661,Eisenhower Park
+662,Division Street
+663,Hanford - S. Irwin S
+664,Bklyn - PS274
+665,Bronx - IS74
+666,Pfizer Lab
+667,DYERSBURG
+668,Pocatello Garrett an
+669,Millbrook
+670,FVIEW
+671,Rio Vista
+672,Riverhead
+674,Franklin County
+675,T21
+676,Estaci�n CICEG
+677,Tlahuac
+678,Downtown Sacramento
+679,Liverpool
+680,Lo Campo
+682,BDED
+683,Grand Falls Windsor
+684,Estaci�n Seguridad P
+685,Las Encinas Temuco
+686,WELLINGTON
+688,Denton Airport South
+689,La Serena
+690,Bringelly
+691,DCNearRoad
+693,Holbrook
+694,Urgakh naran
+695,Copiapo Sivica
+697,"Haldia, Haldia - WBPCB"
+698,Southampton Centre
+699,Junta de Vecinos
+700,Indpls-Harding St
+701,Sukhothai Thammathirat Open University
+703,Collectorate Jodhpur - RSPCB
+704,WEST OLIVE
+705,GBUAPCD EBAM 1
+706,Calabozo
+707,GBUAPCD EBAM 1
+708,GBUAPCD EBAM @ Lee V
+709,Neah Bay 2-Makah Tri
+710,Club Deportivo 23 de Marzo
+711,Cayumanqui
+712,Sheridan PD
+713,DBT
+714,Huntsville Old Airpo
+715,Mammoth Cave NP
+716,"Rabindra Bharati University, Kolkata - WBSPCB"
+717,Pluakdaeng District Health Office
+718,Salford Eccles
+719,LIVONIA NEAR ROAD
+720,Colicheu
+721,Brigham City
+723,PERKINSTOWN
+724,Ketchum
+725,Independencia
+726,Ballymena Ballykeel - UKA00503
+727,Winthrop-Chewuch Rd
+728,Ronan-MT
+729,Hawaii Volcanoes NP
+730,Kembla Grange
+731,Bristol St Paul's
+732,Methodist Hill
+733,Oakdale
+734,Galleria
+735,Berea BOE
+736,Headstart
+737,SETRPC Port Arthur C
+738,Canyonlands NP
+739,McMillan Reservoir
+740,SYDNEY
+741,AYLESFORD MOUNTAIN
+742,York Bootham
+743,Colville-E 1st St
+744,BATHURST
+746,MONCTON
+747,PORT HAWKESBURY
+748,CHARLOTTETOWN
+749,FOREST HILLS
+750,GARDINIER
+751,ST LEONARD
+754,FREDERICTON
+755,Mount Pearl
+756,Tulsa 0175
+757,DECATUR
+758,Williams Lake Column
+759,Atizapán
+760,Rochester
+762,JAJCE - HARMANI
+763,Brist
+764,Newport
+765,St. Martinville
+767,"INIA, Chillán"
+768,Scunthorpe Town
+769,"Rangely, CO"
+770,Las Gaviotas
+771,EASTKNOX
+772,AIR LAB
+773,SPRINGHILL
+774,Lake Major
+777,Port au Choix
+778,Lower Newcastle
+779,St. John's
+780,DAYTON
+781,P2
+782,KENTVILLE
+784,San Luis Obispo - Hi
+785,Merced - S. Coffee A
+786,Madera - Pump Yard
+787,Parlier
+788,Maricopa - Stanilaus
+789,Fresno - Sierra Skyp
+790,Clovis - N. Villa Av
+791,Turlock - S. Minaret
+792,Fresno - Drummond St
+793,TracyAP
+794,Storrington Roadside
+795,Cuautitilán
+797,City Railway Station - KSPCB
+798,"Din Daeng Rd., Din Daeng"
+799,Lassen Volcanic NP
+800,Aberdeen
+801,STILWELL CASTNET & N
+802,Due West
+803,Barnstaple A39
+804,Wicken Fen
+805,Darrington-Fir St
+806,Death Valley NP
+807,Parklane
+808,Indura
+809,Black Hawk
+810,JUNJI
+811,Tolgoit
+812,ENAP Price
+813,Badlands
+814,Credit Union
+815,South Valley
+817,Beaver Falls
+818,WIND CAVE
+819,Ate
+821,Sioux Falls
+822,Watertown
+823,Research Farm
+824,Middlesbrough
+825,Otay Mesa - Donovan
+826,St Marys
+827,Jefferson
+828,Brigantine
+829,Granger-Beckley St.
+830,Sierra Gorda 
+831,Stafford
+833,Brownsville C80
+834,Jenison
+836,Abbotsford Airport
+838,Universidad Autonoma
+839,DURHAM
+841,Perdue
+842,James River-South
+843,HU-Beltsville
+844,Cerrillos
+845,Honolulu
+846,Cerro Navia
+847,South Long Beach
+848,Denali NPP
+849,El Bosque (Acreditada)
+850,Rancagua II
+852,La Florida (Acreditada)
+853,East Orange
+854,Chandrapur
+855,Portland - Deering O
+856,Alliance
+857,Fort Lee Near Road
+858,Lima
+859,Portsmouth Water Tre
+860,"Sanjay Palace, Agra - UPPCB"
+861,Blythe
+862,Stockton - Hazelton
+863,"Noen Phra, Mueang"
+864,Sonora - Barretta St
+865,Chesterfield Roadside
+866,Modesto - 14th Stree
+867,Paso Robles - Santa
+868,Allen Park
+869,V_VIEW
+870,McCall
+871,Santa Barbara
+872,Chalmette Vista
+873,Sutter Buttes (seaso
+874,Yuba City
+875,Roseville - N.Sunris
+876,Santa Maria - Broadw
+877,Visalia - N. Church
+878,Davis - UCD Campus
+879,Tuscan Butte (Season
+880,Rutland
+881,Greenville-ESC
+882,Calexico - Ethel Str
+883,Echo Summit (seasona
+884,PUBLIC HEALTH 4
+885,Edison
+886,Placerville
+887,Bakersfield - Califo
+888,Mojave - 923 Poole S
+889,Paradise - Airport
+890,Chico -  East
+891,South Lake Tahoe - S
+892,Gridley
+893,Willows-Colusa
+894,PUBLIC HEALTH
+895,Fresno - Garland
+896,Paradise Theater
+897,Shafter - Walker Str
+898,Yosemite Village - V
+899,Arvin - Di Giorgio S
+900,Colusa - Sunrise Blv
+901,Oildale - 3311 Manor
+902,Cool (Seasonal)
+903,Jerseydale (seasonal
+905,Jackson - Clinton
+906,Residence for Dept. of Mineral Resources
+907,Port Huron
+908,Viking Lake State Pa
+909,Progreso
+910,Victoria Memorial - WBSPCB
+911,Bargo
+912,Randwick
+913,Richmond
+914,Wallsend
+915,Wollongong
+916,Wyong
+917,Bremerton-Spruce Ave
+918,Tultitlán
+919,St. Lukes Meridian
+920,POMPANO_BEACH
+921,EAGLEMT
+922,Bonner Lake
+923,West Duluth
+924,Rahway PM
+925,Colliers Mills
+926,UAM Xochimilco
+927,Ancora State Hosptia
+928,Jersey City FH
+929,Ramapo
+930,Converse County Long
+931,Seattle-10th & Welle
+932,Lake Sugema
+933,Valle Alegre
+935,Athens
+936,District 6
+937,Bridgeport-Edison
+938,Nottingham Centre
+939,SUMMIT
+940,Gardiner
+941,Los Maitenes
+942,Boulder
+944,BUCKNER
+945,Sandhill
+946,Port Talbot Margam
+947,SHEPVILL
+948,Clarksboro
+949,ETOWN2
+950,SMITHLD
+951,La Greda
+952,Burns - Washington S
+953,Pickle Lake
+954,Trenton
+955,Edinburgh St Leonards
+956,Cortez Ozone
+957,Pocatello STP
+958,Saskatoon
+959,Pahala
+960,Carrabassett Valley
+961,Quintero
+962,Rider University
+963,Universidad de Talca
+964,Clingmans Dome - GSM
+965,Highland Reservoir -
+966,NKU
+967,Pudahuel (Acreditada)
+968,Inverness
+969,"Iowa City, Hoover Sc"
+971,Elizabeth Trailer
+972,Snare Rapids
+973,NEWTWN
+974,Newark Firehouse
+975,Viña del Mar
+976,Evansville-Buena Vis
+977,Red Mountain
+978,Flemington
+979,Columbia
+980,Chaparral
+981,Columbus Airport
+982,Chapais
+983,Welby - 78th Ave. &
+984,Leonia
+985,Collectorate - Muzaffarpur - BSPCB
+987,Rutgers University
+988,Langdale Elementary
+989,Sequoia and Kings Ca
+990,Valdivia
+991,Mingan
+992,Hillcrest
+993,Frelighsburg
+994,Millville
+995,Shaw Crompton Way
+996,QUINCY
+997,Rancagua I
+998,Prineville - Davidso
+999,Pride
+1000,Presque Isle Riversi
+1001,PURCHASE
+1002,Pacific
+1003,Padonia
+1004,Padre Las Casas II
+1005,"Paia, Maui"
+1006,Painesville
+1007,"Pak Phriao, Mueang"
+1008,Palatka
+1009,Palisade Ozone
+1010,Preble NCore
+1011,Palm Springs - Fire
+1012,Palmer
+1013,Palo Verde
+1014,Paradise Road
+1015,Parker County C76
+1016,Parkgate (Eagle Rive
+1017,Parkway East (Near R
+1018,Parry Sound
+1019,Pasadena
+1020,Patterson Park
+1021,Patterson Pass
+1022,Paul Meyer
+1023,Paw Park
+1024,Pawnee & Glenn
+1025,Payne's Prarie
+1026,Pearl City
+1027,Pee Dee
+1028,Pembroke Exchange St
+1029,Pendleton - McKay Cr
+1030,Pensacola NAS
+1031,Pepsi Place
+1032,Perris
+1033,Peterborough
+1034,Petrified Forest NP
+1035,Phelan - Beekley Roa
+1036,Pico Rivera
+1037,Pierre
+1038,Pilot Point C1032
+1039,Pinal Air Park
+1040,Piney Run
+1041,Pinnacles NM
+1042,Piru - Pacific
+1043,"Pisgah, Forestry Off"
+1044,"Pisgah, Harrison Cou"
+1045,Pitt Meadows
+1046,Plumb-Kit
+1047,Plummer
+1048,Plummer CDA Tribe
+1049,Swiftwater
+1050,Podleśna
+1051,Pomeroy
+1052,Pomona
+1053,Ponca City
+1054,Port Allen
+1055,Port Angeles-E 5th S
+1056,Port Arthur West C28
+1058,Port Manatee
+1059,Port Manatee
+1060,Port Orange
+1061,Port Stanley
+1062,Port Townsend-San Ju
+1063,Portage-Hwy 12
+1064,Portland - SE Lafaye
+1065,Powell River Wildwoo
+1066,Powell River James T
+1067,Portland - Sauvie Is
+1068,Portland - Spangler
+1069,Portland Near Road
+1070,Potosi
+1071,Potato Creek State P
+1072,Hammond-141st St
+1073,Hamilton Downtown
+1074,Hamilton
+1075,16th and Whitmore
+1076,Navajo Lake
+1077,22nd Street & Craycr
+1078,24th & O
+1079,2912 Coffey
+1080,2LL Los Lunas
+1081,Hagerstown
+1082,Irmo
+1083,ODOT Ironton
+1084,Hackney
+1085,Isla Blanca C323/C66
+1086,Issaquah-Lake Sammam
+1087,HUNTINGTON
+1088,Italy C1044
+1089,Ivanhoe C414
+1090,Iztacalco
+1091,J. D. Smith
+1092,JAMES S. LONG PARK
+1093,JAMESVIL
+1095,JOANBOLD
+1096,Johnstown
+1097,JOHNSTON
+1098,JPRECC
+1099,Jackson
+1100,Jackson Road
+1101,HOUSTON
+1102,Houghton Lake
+1103,HOOVER
+1104,Hookstown
+1105,HOLLAND
+1106,Holland
+1107,Jean
+1108,HICKORY
+1109,Hershey
+1110,HERNANDO
+1111,HELENA
+1112,HAZ2
+1113,HATTIEAVEN
+1114,HARRINGTON BCH
+1115,Jefferson-Laatsch
+1116,Harrisburg
+1117,Jenkins Avenue
+1118,Harbor Beach
